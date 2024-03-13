@@ -1,0 +1,21 @@
+# BLDC Motor
+# 2024-02-29 09:14:18Z
+
+# IO_2@[IOP=(3)][IoId=(2)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 2
+# IO_3@[IOP=(3)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 3
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_io "A(0)" iocell 3 4
+set_io "B(0)" iocell 2 4
+set_io "C(0)" iocell 2 6
+set_io "INHA(0)" iocell 3 5
+set_io "INHB(0)" iocell 2 5
+set_io "INHC(0)" iocell 2 7
+set_io "u(0)" iocell 0 3
+set_io "v(0)" iocell 0 2
+set_io "w(0)" iocell 0 0
+set_io "\UART:tx(0)\" iocell 5 1
+set_io "\UART:rx(0)\" iocell 5 0
+set_io "CTRL(0)" iocell 0 6
+set_io "Blue(0)" iocell 5 5

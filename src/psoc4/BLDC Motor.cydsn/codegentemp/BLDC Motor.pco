@@ -1,0 +1,52 @@
+# BLDC Motor
+# 2024-02-29 09:14:19Z
+
+# IO_2@[IOP=(3)][IoId=(2)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 2
+# IO_3@[IOP=(3)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 3
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_location "ClockBlock" m0s8clockblockcell -1 -1 0
+set_io "A(0)" iocell 3 4
+set_io "B(0)" iocell 2 4
+set_io "C(0)" iocell 2 6
+set_io "INHA(0)" iocell 3 5
+set_io "INHB(0)" iocell 2 5
+set_io "INHC(0)" iocell 2 7
+set_io "u(0)" iocell 0 3
+set_io "v(0)" iocell 0 2
+set_io "w(0)" iocell 0 0
+set_io "\UART:tx(0)\" iocell 5 1
+set_io "\UART:rx(0)\" iocell 5 0
+set_io "CTRL(0)" iocell 0 6
+set_io "Blue(0)" iocell 5 5
+set_location "\Counter_micros:CounterUDB:status_0\" 0 0 0 1
+set_location "\Counter_micros:CounterUDB:status_2\" 0 0 1 2
+set_location "\Counter_micros:CounterUDB:count_enable\" 0 1 0 0
+set_location "Net_125" 1 1 1 3
+set_location "Net_80" 1 1 0 0
+set_location "Net_131" 1 1 0 1
+set_location "\PWM_A:cy_m0s8_tcpwm_1\" m0s8tcpwmcell -1 -1 2
+set_location "__ONE__" 1 0 0 2
+set_location "\PWM_B:cy_m0s8_tcpwm_1\" m0s8tcpwmcell -1 -1 0
+set_location "\PWM_C:cy_m0s8_tcpwm_1\" m0s8tcpwmcell -1 -1 1
+set_location "\UART:SCB\" m0s8scbcell -1 -1 2
+set_location "\Counter_micros:CounterUDB:sCTRLReg:ctrlreg\" 0 1 6
+set_location "\Counter_micros:CounterUDB:sSTSReg:stsreg\" 0 0 4
+set_location "\Counter_micros:CounterUDB:sC32:counterdp:u0\" 0 1 2
+set_location "\Counter_micros:CounterUDB:sC32:counterdp:u1\" 1 1 2
+set_location "\Counter_micros:CounterUDB:sC32:counterdp:u2\" 1 0 2
+set_location "\Counter_micros:CounterUDB:sC32:counterdp:u3\" 0 0 2
+set_location "isr_millis" interrupt -1 -1 0
+set_location "isr_uf" interrupt -1 -1 1
+set_location "isr_vf" interrupt -1 -1 3
+set_location "isr_wf" interrupt -1 -1 5
+set_location "isr_wr" interrupt -1 -1 6
+set_location "isr_vr" interrupt -1 -1 4
+set_location "isr_ur" interrupt -1 -1 2
+set_location "\FreqDiv:not_last_reset\" 0 1 1 1
+set_location "Net_113" 0 1 0 2
+set_location "\FreqDiv:count_0\" 0 1 0 3
+set_location "\Counter_micros:CounterUDB:overflow_reg_i\" 0 0 1 1
+set_location "\Counter_micros:CounterUDB:prevCompare\" 0 0 0 0
+set_location "\Counter_micros:CounterUDB:count_stored_i\" 0 1 0 1
