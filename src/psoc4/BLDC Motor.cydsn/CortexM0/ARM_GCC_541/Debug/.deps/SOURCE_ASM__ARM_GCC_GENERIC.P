@@ -1,0 +1,8 @@
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/CortexM0/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+

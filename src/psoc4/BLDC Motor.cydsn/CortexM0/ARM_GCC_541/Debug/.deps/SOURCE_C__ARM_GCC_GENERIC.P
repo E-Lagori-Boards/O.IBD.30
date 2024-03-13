@@ -1,0 +1,140 @@
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/A.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/A_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/B.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/B_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Blue.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Blue_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/C.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CTRL.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CTRL_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/C_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Clock_1.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Clock_2.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Clock_3.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Clock_micros.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Counter_micros.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyDMA.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHA.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHA_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHB.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHB_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHC.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHC_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/PWM_A.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/PWM_B.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/PWM_C.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_BOOT.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_PINS.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_PVT.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_rx.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_tx.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cmsis_armcc.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cmsis_compiler.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cmsis_gcc.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/core_cm0.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_millis.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_uf.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_ur.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_vf.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_vr.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_wf.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_wr.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/project.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/u.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/u_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/v.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/v_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/w.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/w_aliases.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/BLDC.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/PID.h C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/main.c 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/A.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/A_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/B.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/B_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Blue.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Blue_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/C.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CTRL.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CTRL_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/C_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Clock_1.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Clock_2.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Clock_3.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Clock_micros.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/Counter_micros.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyDMA.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHA.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHA_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHB.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHB_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHC.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/INHC_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/PWM_A.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/PWM_B.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/PWM_C.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_rx.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_tx.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_millis.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_uf.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_ur.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_vf.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_vr.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_wf.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/isr_wr.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/u.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/u_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/v.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/v_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/w.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/Generated_Source/PSoC4/w_aliases.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/BLDC.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/PID.h : 
+
+C:/Users/Prajwal\ Trachealth/Documents/PSoC\ Creator/E-Lagori\ PSoC\ 11th\ April\ 2023/BLDC\ Motor.cydsn/main.c : 
+
